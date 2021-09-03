@@ -1,0 +1,6 @@
+com\mycourse\backend\models\dto\CourseDTO.class
+com\mycourse\backend\models\services\CourseService.class
+com\mycourse\backend\controllers\CourseController.class
+com\mycourse\backend\models\entities\Course.class
+com\mycourse\backend\MycourseBackendApplication.class
+com\mycourse\backend\models\repositories\CourseRepository.class
