@@ -1,6 +1,6 @@
 package com.mycourse.backend.controllers;
 
-import com.mycourse.backend.models.dto.UserDTO;
+import com.mycourse.backend.models.dtos.UserDTO;
 import com.mycourse.backend.models.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,6 +1,6 @@
 package com.mycourse.backend.models.services;
 
-import com.mycourse.backend.models.dto.UserDTO;
+import com.mycourse.backend.models.dtos.UserDTO;
 import com.mycourse.backend.models.entities.User;
 import com.mycourse.backend.models.repositories.UserRepository;
 import com.mycourse.backend.utils.Mapper;
